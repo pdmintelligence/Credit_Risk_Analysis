@@ -6,13 +6,6 @@ The module 17 challenge pertained to the topic of measuring and assessing credit
 
 We constructed and tested several different models of credit risk using a variety of sampling techniques to account for this bias. The different types of models are detailed below:  
 
-1) Naive Random Oversampling
-2) SMOTE Oversampling
-3) Cluster Centroids algorithms
-4) Combination (Over and Under) Sampling (SMOTEENN)
-5) Balanced Random Forest Tree Classifications
-6) Ensemble Classifications
-
 ## Results
 
 ### Naive Radom Oversampling
